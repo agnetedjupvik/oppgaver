@@ -19,10 +19,10 @@ Vi begynner prosjektet vårt med å få katten til å fly!
 
 ## Sjekkliste {.check}
 
-+ Start et nytt prosjekt. Du vil se en katt som venter på å bli
++ [ ] Start et nytt prosjekt. Du vil se en katt som venter på å bli
   programmert!
 
-+ Prøv å klikk på de blå klossene midt på skjermen. For eksempel, om
++ [ ] Prøv å klikk på de blå klossene midt på skjermen. For eksempel, om
   du klikker på
 
   ```blocks
